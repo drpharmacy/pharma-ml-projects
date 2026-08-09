@@ -1,0 +1,1 @@
+This folder contains hands-on Colab notebooks for supervised machine learning applications in pharmaceutical data science, covering bioactivity prediction, classification, and regression tasks using real-world biological and chemical datasets.
