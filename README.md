@@ -56,4 +56,7 @@ urllib.request.urlretrieve("https://raw.githubusercontent.com/drpharmacy/pharma-
 model = joblib.load("model.pkl")
 ```
 
+## Maintainer
+
+Maintained by Dr. Amit Gangwal, updated periodically for new practicals and corrections. For questions or corrections, open an Issue on this repository.
 ---
