@@ -14,7 +14,15 @@ This folder contains hands-on Colab notebooks for supervised machine learning ap
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/pima-indians-diabetes-database.ipynb)
 
 
+**Live ChEMBL Regression — EGFR Inhibitor Bioactivity (pIC50)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/Live_ChEMBL_Regr_EGFR_Inhibitor_pIC50.ipynb)
 
+
+**Classical QSAR Model — EGFR Inhibitor Potency Prediction**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/Classical_QSAR_Model.ipynb)
+
+**Structure-Based Virtual Screening — EGFR Inhibitor Identification**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/Structure_Based_Virtual_Screening.ipynb)
 
 ## How to Run This Notebook
 
