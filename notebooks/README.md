@@ -24,6 +24,12 @@ This folder contains hands-on Colab notebooks for supervised machine learning ap
 **Structure-Based Virtual Screening — EGFR Inhibitor Identification**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/Structure_Based_Virtual_Screening.ipynb)
 
+**denovo drug design**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/denovo_drug_design)
+
+
+
+
 ## How to Run This Notebook
 
 You can run this notebook using any of the methods below. **Method 1 (the Colab 
