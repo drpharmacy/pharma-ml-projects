@@ -29,7 +29,7 @@ This folder contains hands-on Colab notebooks for supervised machine learning ap
 
 
 **repurposing**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/repurposing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/Repurposing.ipynb)
 
 
 
