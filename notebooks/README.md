@@ -28,6 +28,9 @@ This folder contains hands-on Colab notebooks for supervised machine learning ap
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/denovo_drug_design.ipynb)
 
 
+**repurposing**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drpharmacy/pharma-ml-projects/blob/main/notebooks/repurposing.ipynb)
+
 
 
 ## How to Run This Notebook
