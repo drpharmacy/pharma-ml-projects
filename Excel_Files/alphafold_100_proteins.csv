@@ -1,0 +1,101 @@
+UniProt_ID,Protein_Name,Gene_Name,Category,Disease_Association
+P00533,Epidermal growth factor receptor,EGFR,Kinase,Non-small cell lung cancer
+P24941,Cyclin-dependent kinase 2,CDK2,Kinase,Cancer cell cycle
+P15056,Serine/threonine-protein kinase B-raf,BRAF,Kinase,Melanoma
+Q9UM73,ALK tyrosine kinase receptor,ALK,Kinase,Lung cancer lymphoma
+P42336,PI3-kinase catalytic subunit alpha,PIK3CA,Kinase,Cancer
+O15111,Inhibitor of nuclear factor kappa-B kinase subunit alpha,CHUK,Kinase,Inflammation cancer
+P36507,Dual specificity mitogen-activated protein kinase kinase 2,MAP2K2,Kinase,Cancer
+Q00534,Cyclin-dependent kinase 6,CDK6,Kinase,Breast cancer lymphoma
+P45983,Mitogen-activated protein kinase 8,MAPK8,Kinase,Inflammation cancer
+P11309,Proto-oncogene serine/threonine-protein kinase Pim-1,PIM1,Kinase,Hematologic cancers
+P49761,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,DYRK1A,Kinase,Down syndrome cancer
+P06493,Cyclin-dependent kinase 1,CDK1,Kinase,Cancer mitosis
+Q13546,Receptor-interacting serine/threonine-protein kinase 1,RIPK1,Kinase,Inflammation neurodegeneration
+P68400,Casein kinase II subunit alpha,CSNK2A1,Kinase,Cancer
+O14965,Aurora kinase A,AURKA,Kinase,Cancer cell division
+P07550,Beta-2 adrenergic receptor,ADRB2,GPCR,Asthma COPD
+P14416,D(2) dopamine receptor,DRD2,GPCR,Schizophrenia Parkinson
+P35372,Mu-type opioid receptor,OPRM1,GPCR,Pain addiction
+P28222,5-hydroxytryptamine receptor 1B,HTR1B,GPCR,Depression migraine
+P25021,Histamine H1 receptor,HRH1,GPCR,Allergy inflammation
+P08172,Muscarinic acetylcholine receptor M2,CHRM2,GPCR,Heart rate cognition
+P21917,D(4) dopamine receptor,DRD4,GPCR,ADHD schizophrenia
+P34969,5-hydroxytryptamine receptor 7,HTR7,GPCR,Depression sleep
+P30556,Type-1 angiotensin II receptor,AGTR1,GPCR,Hypertension heart failure
+P28223,5-hydroxytryptamine receptor 2A,HTR2A,GPCR,Depression psychosis
+P30542,Adenosine receptor A1,ADORA1,GPCR,Cardiac arrhythmia pain
+P29274,Adenosine receptor A2a,ADORA2A,GPCR,Parkinson inflammation
+P03372,Estrogen receptor alpha,ESR1,Nuclear_Receptor,Breast cancer
+P10275,Androgen receptor,AR,Nuclear_Receptor,Prostate cancer
+P37231,Peroxisome proliferator-activated receptor gamma,PPARG,Nuclear_Receptor,Diabetes obesity
+Q07869,Peroxisome proliferator-activated receptor alpha,PPARA,Nuclear_Receptor,Dyslipidemia
+P19793,Retinoic acid receptor RXR-alpha,RXRA,Nuclear_Receptor,Cancer differentiation
+P04150,Glucocorticoid receptor,NR3C1,Nuclear_Receptor,Inflammation autoimmune
+P10827,Thyroid hormone receptor alpha,THRA,Nuclear_Receptor,Hypothyroidism
+Q92731,Estrogen receptor beta,ESR2,Nuclear_Receptor,Breast cancer osteoporosis
+P13631,Retinoic acid receptor gamma,RARG,Nuclear_Receptor,Skin cancer differentiation
+P06401,Progesterone receptor,PGR,Nuclear_Receptor,Breast cancer contraception
+P00734,Prothrombin,F2,Protease,Thrombosis coagulation
+P12821,Angiotensin-converting enzyme,ACE,Protease,Hypertension heart failure
+P56817,Beta-secretase 1,BACE1,Protease,Alzheimers disease
+P14735,Insulin-degrading enzyme,IDE,Protease,Diabetes Alzheimers
+P04637,Cellular tumor antigen p53,TP53,Tumor_Suppressor,Pan-cancer
+O43353,Rhomboid-related protease 2,RHBDL2,Protease,Cancer signaling
+P07339,Cathepsin D,CTSD,Protease,Cancer lysosomal disease
+P07711,Cathepsin L1,CTSL,Protease,Cancer osteoporosis
+P08254,Stromelysin-1,MMP3,Protease,Arthritis cancer invasion
+P03956,Interstitial collagenase,MMP1,Protease,Arthritis fibrosis
+P38398,Breast cancer type 1 susceptibility protein,BRCA1,Tumor_Suppressor,Breast ovarian cancer
+P51587,Breast cancer type 2 susceptibility protein,BRCA2,Tumor_Suppressor,Breast pancreatic cancer
+P06400,Retinoblastoma-associated protein,RB1,Tumor_Suppressor,Retinoblastoma cancer
+P60484,Phosphatase and tensin homolog,PTEN,Tumor_Suppressor,Prostate breast cancer
+P49589,Cysteinyl-tRNA synthetase cytoplasmic,CARS,Tumor_Suppressor,Cancer
+Q13485,Mothers against decapentaplegic homolog 4,SMAD4,Tumor_Suppressor,Colorectal pancreatic cancer
+P42771,Cyclin-dependent kinase inhibitor 2A,CDKN2A,Tumor_Suppressor,Melanoma pancreatic cancer
+Q9NWZ3,Homeodomain-interacting protein kinase 2,HIPK2,Tumor_Suppressor,Leukemia
+P13569,Cystic fibrosis transmembrane conductance regulator,CFTR,Ion_Channel,Cystic fibrosis
+Q12809,Potassium channel hERG,KCNH2,Ion_Channel,Cardiac arrhythmia QT prolongation
+Q14524,Sodium channel protein type 5 subunit alpha,SCN5A,Ion_Channel,Brugada syndrome arrhythmia
+O00555,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,CACNA1A,Ion_Channel,Migraine epilepsy
+P51790,Chloride channel protein 3,CLCN3,Ion_Channel,Neurodegeneration
+Q9UNQ0,ATP-binding cassette sub-family G member 2,ABCG2,Ion_Channel,Drug resistance cancer
+P08183,Multidrug resistance protein 1,ABCB1,Ion_Channel,Drug resistance MDR
+Q9Y6M1,Acid-sensing ion channel 1,ASIC1,Ion_Channel,Pain neurodegeneration
+P04035,3-hydroxy-3-methylglutaryl-CoA reductase,HMGCR,Enzyme,Hypercholesterolemia
+P00374,Dihydrofolate reductase,DHFR,Enzyme,Cancer bacterial infection
+P35354,Prostaglandin G/H synthase 2,PTGS2,Enzyme,Inflammation pain fever
+P23219,Prostaglandin G/H synthase 1,PTGS1,Enzyme,Inflammation platelet aggregation
+P09038,Fibroblast growth factor 2,FGF2,Enzyme,Angiogenesis cancer wound healing
+P22303,Acetylcholinesterase,ACHE,Enzyme,Alzheimers myasthenia gravis
+P10632,Cytochrome P450 2C8,CYP2C8,Enzyme,Drug metabolism
+P04798,Cytochrome P450 1A1,CYP1A1,Enzyme,Drug metabolism carcinogen activation
+P11712,Cytochrome P450 2C9,CYP2C9,Enzyme,Drug metabolism warfarin
+P10635,Cytochrome P450 2D6,CYP2D6,Enzyme,Drug metabolism pharmacogenomics
+P10636,Microtubule-associated protein tau,MAPT,Neurological,Alzheimers frontotemporal dementia
+P05067,Amyloid precursor protein,APP,Neurological,Alzheimers disease
+P37840,Alpha-synuclein,SNCA,Neurological,Parkinsons disease
+P02649,Apolipoprotein E,APOE,Neurological,Alzheimers cardiovascular
+P04156,Major prion protein,PRNP,Neurological,Prion diseases CJD
+P19338,Nucleolin,NCL,Neurological,Cancer neurodegeneration
+Q99714,3-hydroxyacyl-CoA dehydrogenase type-2,HSD17B10,Neurological,Alzheimers X-linked
+P35228,Nitric oxide synthase inducible,NOS2,Neurological,Inflammation neurodegeneration
+P29460,Interleukin-12 subunit beta,IL12B,Neurological,Autoimmune neuroinflammation
+P06213,Insulin receptor,INSR,Neurological,Diabetes insulin resistance
+P01375,Tumor necrosis factor,TNF,Inflammatory,Rheumatoid arthritis IBD
+P05231,Interleukin-6,IL6,Inflammatory,Rheumatoid arthritis cytokine storm
+P23458,Tyrosine-protein kinase JAK1,JAK1,Inflammatory,Rheumatoid arthritis
+P52333,Tyrosine-protein kinase JAK3,JAK3,Inflammatory,Rheumatoid arthritis leukemia
+P15692,Vascular endothelial growth factor A,VEGFA,Inflammatory,Angiogenesis cancer AMD
+P01584,Interleukin-1 beta,IL1B,Inflammatory,Inflammation fever pain
+P35225,Interleukin-13,IL13,Inflammatory,Asthma atopic dermatitis
+P78552,Interleukin-13 receptor subunit alpha-1,IL13RA1,Inflammatory,Asthma fibrosis
+P01308,Insulin,INS,Hormone,Type 1 and 2 diabetes
+P69905,Hemoglobin subunit alpha,HBA1,Structural,Sickle cell anemia thalassemia
+P68871,Hemoglobin subunit beta,HBB,Structural,Sickle cell anemia thalassemia
+P02452,Collagen alpha-1(I) chain,COL1A1,Structural,Osteogenesis imperfecta fibrosis
+P04264,Keratin type II cytoskeletal 1,KRT1,Structural,Skin disorders
+P08670,Vimentin,VIM,Structural,Cancer EMT biomarker
+P60709,Actin cytoplasmic 1,ACTB,Structural,Cytoskeleton cancer
+P02787,Serotransferrin,TF,Transport,Iron deficiency anemia
+P02768,Serum albumin,ALB,Transport,Drug binding liver disease
