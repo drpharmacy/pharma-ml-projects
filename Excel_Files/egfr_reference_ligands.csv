@@ -1,0 +1,16 @@
+Drug_Name,SMILES,Generation,Regulatory_Status,Molecular_Weight,LogP
+Erlotinib,COCCOc1cc2ncnc(Nc3cccc(C#C)c3)c2cc1OCCOC,1st gen,Approved,393.44,3.41
+Gefitinib,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,1st gen,Approved,446.91,4.28
+Afatinib,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,2nd gen,Approved,485.95,4.39
+Osimertinib,COc1cc(N(C)CCN(C)C)c(NC(=O)C=C)cc1Nc1nccc(-c2cn(C)c3ccccc23)n1,3rd gen,Approved,499.62,4.51
+Lapatinib,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,1st gen dual,Approved,581.07,6.14
+Dacomitinib,CN(C)/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OC1CCN(C(C)=O)CC1,2nd gen,Approved,527.0,4.57
+Vandetanib,COc1cc2ncnc(Nc3ccc(Br)cc3F)c2cc1OCC1CCN(C)CC1,1st gen,Approved,475.36,5.0
+Icotinib,C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCOCCOCCO4)c1,1st gen,Approved (China),391.43,3.16
+Neratinib,COc1cc2ncnc(Nc3ccc(Oc4ccc(C)nc4)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C,2nd gen,Approved,519.01,5.59
+Brigatinib,CN(C)P(=O)(N(C)C)Nc1cc(Nc2ncc(Cl)c(Nc3ccccc3P(C)(C)=O)n2)c(OC)cc1N1CCC(N2CCN(C)CC2)CC1,2nd gen ALK/EGFR,Approved,733.24,5.73
+Vemurafenib,CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F,BRAF (reference),Approved,489.93,5.54
+Canertinib,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,2nd gen,Discontinued,485.95,4.39
+Pelitinib,C#CCOc1cc2c(Nc3cccc(Br)c3)ncnc2cc1NC(=O)/C=C/CN(C)C,2nd gen,Discontinued,480.37,4.2
+Rociletinib,CC1(C)CC(Nc2nc(Nc3ccc(N4CCN(C)CC4)cc3OC)ncc2C(F)(F)F)CC(C)(C)N1,3rd gen,Discontinued,521.63,4.72
+Olmutinib,Cc1ccc(Nc2nccc(-c3cn(C)c4ccccc34)n2)cc1Nc1cccc(C(F)(F)F)n1,3rd gen,Approved (Korea),474.49,6.84
